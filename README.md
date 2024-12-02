@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ant or Anton
+- 👀 I’m interested in Video games and programming
+- 🌱 I’m currently learning Python programming
